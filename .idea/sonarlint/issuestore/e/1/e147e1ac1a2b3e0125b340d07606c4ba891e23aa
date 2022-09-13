@@ -1,0 +1,40 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Éå
+k	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÔÐƒûÿÿÿÿ
+k	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²†Ö™ÿÿÿÿÿ
+e	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Œ×W
+f	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êðòà
+e	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¡®E
+f	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Éå
+f	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕàÌ
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÏ®Óûÿÿÿÿ
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÏ®Óûÿÿÿÿ
+k	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ý×ýÿÿÿÿ
+k	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ý×ýÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þ“šÒ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÑÁúûÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "Read".(„Éå
+?
+java:S1481")Remove this unused "Read" local variable.(„Éå
+b	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Œ×W
+>
+java:S21406")Use "java.util.Random.nextInt()" instead.(Ôöž 
+c	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êðòà
+M	java:S106D"9Replace this use of System.out or System.err by a logger.(µùï1
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+b	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¡®E
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ž©¼Äùÿÿÿÿ
+h	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÏ®Óûÿÿÿÿ
+P
+java:S1854r"5Remove this useless assignment to local variable "l".(ÿ¯ÐÁþÿÿÿÿ
+K
+java:S1854p"5Remove this useless assignment to local variable "k".(õåŒ“
+<
+java:S1481d"&Remove this unused "k" local variable.(¢³¯¯
+A
+java:S1481f"&Remove this unused "l" local variable.(ý¼œ°ùÿÿÿÿ
+h	java:S100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ý×ýÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ã•“±úÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(€ôÊþûÿÿÿÿ
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(¦É€Žùÿÿÿÿ

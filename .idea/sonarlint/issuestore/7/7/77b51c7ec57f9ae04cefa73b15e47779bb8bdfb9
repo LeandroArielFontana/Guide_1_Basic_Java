@@ -1,0 +1,23 @@
+
+e
+java:S1192<"JDefine a constant instead of duplicating this literal "Â° alumno" 4 times.(°¯ûøÿÿÿÿ
+f	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Éå
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù†Éìşÿÿÿÿ
+k	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶íüûùÿÿÿÿ
+e	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÓÙA
+f	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÉ•
+e	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ığØ
+k	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‘¢ûşÿÿÿÿ
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ôı©ÿÿÿÿÿ
+k	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆšÕƒÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âŠ¤çûÿÿÿÿ
+V
+java:S18544";Remove this useless assignment to local variable "Average".(Ù‘¢ûşÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(°¯ûøÿÿÿÿ
+M	java:S106@"9Replace this use of System.out or System.err by a logger.(øèãC
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ÜÌ’ö
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(üÓ‘¶øÿÿÿÿ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(÷¿û
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(œÌ›¹
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(Ïé¶šşÿÿÿÿ

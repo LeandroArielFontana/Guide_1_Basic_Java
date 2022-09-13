@@ -1,0 +1,16 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Éå
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üœïÖøÿÿÿÿ
+f	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—º€´
+f	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê€¹
+f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡îºÿ
+f	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Œß×
+f	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬·öˆ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó›
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ë—
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(óÔØ•şÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(Ğ ×æ
+V	java:S1254"<This block of commented-out lines of code should be removed.(™¦®éşÿÿÿÿ
+V	java:S125<"<This block of commented-out lines of code should be removed.(öƒÍ¤úÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(Â÷ÿñ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(•î§ªûÿÿÿÿ
