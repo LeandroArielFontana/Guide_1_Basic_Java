@@ -1,8 +1,0 @@
-
-k	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄúÂîùÿÿÿÿ
-k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÃÔÀüÿÿÿÿ
-k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã†•¥ùÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ÕÙ´
-h
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘
-S	java:S1062"9Replace this use of System.out or System.err by a logger.(†µëüÿÿÿÿ
