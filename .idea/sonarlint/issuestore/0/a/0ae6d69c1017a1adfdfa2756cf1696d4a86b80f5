@@ -1,26 +1,0 @@
-
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Éå
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§€úîûÿÿÿÿ
-f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş“šÒ
-f	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í‰„Ç
-f	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì€²©
-k	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âõ®„úÿÿÿÿ
-f	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÈØ
-f	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Éå
-f	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕàÌ
-l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒèïøÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½›‰şÿÿÿÿ
-h
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Çµí‘
-N
-java:S1854"8Remove this useless assignment to local variable "Read".(„Éå
-?
-java:S1481")Remove this unused "Read" local variable.(„Éå
-Q	java:S125a"<This block of commented-out lines of code should be removed.( ó……
-M	java:S106i"9Replace this use of System.out or System.err by a logger.(Æ÷<
-M	java:S106m"9Replace this use of System.out or System.err by a logger.(Ÿ¤í6
-c	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÈØ
-S	java:S106}"9Replace this use of System.out or System.err by a logger.(©¼Äùÿÿÿÿ
-i	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒèïøÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(µùï1
-T	java:S106“"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
