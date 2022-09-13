@@ -29,7 +29,6 @@ public class Ejercicio015 {
 
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
-
         LOGGER.log(Level.INFO, () -> "Digite el 1er Numero");
         int numberOne = read.nextInt();
         LOGGER.log(Level.INFO, () -> "Digite el 2do Numero");

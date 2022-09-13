@@ -4,14 +4,15 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/**
+ * Escriba un programa que valide si una nota está entre 0 y 10, sino está entre 0 y 10
+ * la nota se pedirá de nuevo hasta que la nota sea correcta.
+ */
+
 public class Ejercicio013 {
     private static final Logger LOGGER = Logger.getLogger("");
 
     public static void main(String[] args) {
-
-        //  Escriba un programa que valide si una nota está entre 0 y 10, sino está entre 0 y 10
-        //  la nota se pedirá de nuevo hasta que la nota sea correcta.
-
         Scanner read = new Scanner(System.in);
         int note;
 
@@ -22,6 +23,5 @@ public class Ejercicio013 {
 
         int finalNote = note;
         LOGGER.log(Level.INFO, () -> "Su nota es : " + finalNote);
-
     }
 }

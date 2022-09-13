@@ -1,16 +1,0 @@
-
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Éå
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¢™µøÿÿÿÿ
-f	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¿¢ü
-k	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¢Ñåüÿÿÿÿ
-f	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­üŠ°
-f	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş“šÒ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹˜Ûÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¾‰úÿÿÿÿ
-S	java:S106%"9Replace this use of System.out or System.err by a logger.(ê˜Ê£ûÿÿÿÿ
-D
-java:S2140-")Use "java.util.Random.nextInt()" instead.(İ—ÀÄıÿÿÿÿ
-N	java:S1068"9Replace this use of System.out or System.err by a logger.(ª›‰
-S	java:S106@"9Replace this use of System.out or System.err by a logger.(§¦æÎüÿÿÿÿ
-N	java:S106I"9Replace this use of System.out or System.err by a logger.(Øãâ„
-S	java:S106M"9Replace this use of System.out or System.err by a logger.(Èş¦šøÿÿÿÿ

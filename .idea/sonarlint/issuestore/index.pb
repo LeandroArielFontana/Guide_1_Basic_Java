@@ -1,17 +1,5 @@
 
 R
-"src/ejercicio020/Ejercicio020.java,6\9\69d585d0349080ae6450b4981bc3b08b281f99e2
-R
-"src/ejercicio021/Ejercicio021.java,2\0\20aa80d9323955329b667f5330ead0f9545fdf6d
-R
-"src/ejercicio022/Ejercicio022.java,b\e\be858b5bd2529da747afbdf1fbd11f093c578903
-R
-"src/ejercicio023/Ejercicio023.java,9\8\98cf47c48dcf1080ecff96bc6f1685dbd17ecc41
-R
-"src/ejercicio024/Ejercicio024.java,1\c\1c6af32174783ce2199512bfbdce06bb7e584f2a
-R
-"src/ejercicio025/Ejercicio025.java,f\7\f7156b22caeb3851505a681d6889b1eec87d23aa
-R
 "src/ejercicio026/Ejercicio026.java,e\7\e7b8e7cdf868d89708dd3124e0d8d0a192ef316b
 R
 "src/ejercicio027/Ejercicio027.java,0\a\0ae6d69c1017a1adfdfa2756cf1696d4a86b80f5
@@ -71,24 +59,6 @@ R
 "src/ejercicioEE3/EjercicioEE3.java,6\e\6e67c7ac6b0b455c7f2358f6b770a151e689471e
 T
 $src/ejercicioE23E/EjercicioE23E.java,2\b\2b321930b0a375f13499c5d51c858a4fc5886502
-S
-#src/ejercicio_diez/Ejercicio10.java,0\e\0e5cfc491a774d656e3f695a532b4b72218d2ac8
-R
-"src/ejercicio_ocho/Ejercicio8.java,b\a\bacb9db1bdfaed9ee98f8a164b598e1ad3a6e12d
-T
-$src/ejercicio_once/Ejercicio011.java,0\a\0a71636fd48cda25b7523ea1062a79f5eb18bff5
-R
-"src/ejercicio_seis/Ejercicio6.java,6\3\63f776b6edc5d270505a585ac7920fbc31aa5fcf
-R
-"src/ejercicio_tres/Ejercicio3.java,3\f\3f53e91813327a1bf638858fccc0830c3c3128f6
-S
-#src/ejercicio_cinco/Ejercicio5.java,1\7\171644e25c55b9b636fe881232652fc3a7479491
-S
-#src/ejercicio_nueve/Ejercicio9.java,8\7\87da0bdafe2746432fa7ee082b1efc229d2779c6
-S
-#src/ejercicio_siete/Ejercicio7.java,5\c\5cc55c0de5cdd0a37b9a340f548f1a25a6b0a858
-T
-$src/ejercicio_cuatro/Ejercicio4.java,0\6\06b95e95c8d4838a599cd3efefe5f7c24c35382c
 W
 'build/classes/.netbeans_automatic_build,b\6\b6f0be73a9d89ff6221d73cd37d77076fc4f1917
 X
@@ -109,13 +79,3 @@ M
 nbproject/genfiles.properties,8\5\85d559b438fd4915873f371dcfe48a06bd993c18
 ;
 manifest.mf,1\d\1de71d11845294429b61ea236a5558babc5333cd
-T
-$src/ejercicio_doce/Ejercicio012.java,e\8\e80a50275cac7f15f65893e9b017759d576546df
-U
-%src/ejercicio_trece/Ejercicio013.java,d\9\d9ec1cce40544ba366fbde8a51733405fb3e1e62
-W
-'src/ejercicio_catorce/Ejercicio014.java,e\b\eb73c34ea5c36aab61693af193922ea0f0f1112c
-V
-&src/ejercicio_quince/Ejercicio015.java,6\b\6be9ebf2b68c873042eb98973cdcd2142a4b3652
-Q
-!src/ejercicio_dos/Ejercicio2.java,f\5\f59c7a54430211312f1a26609703ebd103ec2eef

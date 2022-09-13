@@ -1,8 +1,0 @@
-
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£’λωÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ϊωΛ
-U
-java:S1854":Remove this useless assignment to local variable "Vector".(£’λωÿÿÿÿ
-F
-java:S1481"+Remove this unused "Vector" local variable.(£’λωÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(΄‹Ήφώÿÿÿÿ

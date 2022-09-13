@@ -4,14 +4,16 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/**
+ * Escriba un programa en el cual se ingrese un valor límite positivo, y a continuación
+ * solicite números al usuario hasta que la suma de los números introducidos supere
+ * el límite inicial.
+ */
+
 public class Ejercicio014 {
     private static final Logger LOGGER = Logger.getLogger("");
 
     public static void main(String[] args) {
-        //  Escriba un programa en el cual se ingrese un valor límite positivo, y a continuación
-        //  solicite números al usuario hasta que la suma de los números introducidos supere
-        //  el límite inicial.
-
         Scanner read = new Scanner(System.in);
         int add = 0;
 

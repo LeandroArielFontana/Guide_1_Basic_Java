@@ -4,15 +4,17 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/**
+ * Escriba un programa que lea 20 números. Si el número leído es igual a cero se debe
+ * salir del bucle y mostrar el mensaje "Se capturó el numero cero". El programa
+ * deberá calcular y mostrar el resultado de la suma de los números leídos, pero si el
+ * número es negativo no debe sumarse. Nota: recordar el uso de la sentencia break.
+ */
+
 public class Ejercicio016 {
     private static final Logger LOGGER = Logger.getLogger("");
 
     public static void main(String[] args) {
-        /*  Escriba un programa que lea 20 números. Si el número leído es igual a cero se debe
-            salir del bucle y mostrar el mensaje "Se capturó el numero cero". El programa 
-            deberá calcular y mostrar el resultado de la suma de los números leídos, pero si el 
-            número es negativo no debe sumarse. Nota: recordar el uso de la sentencia break.*/
-
         Scanner read = new Scanner(System.in);
         int add = 0;
 
