@@ -1,15 +1,5 @@
 
 R
-"src/ejercicioE01/EjercicioE01.java,4\6\466599aa587deebde2967db06dd5c914fb103a57
-R
-"src/ejercicioE02/EjercicioE02.java,8\b\8ba590a8ec5cb294b2b5bced1fe315071fdd69c2
-R
-"src/ejercicioE03/EjercicioE03.java,b\2\b2972a958a6574152cd22d9f6078227b5ca3e464
-R
-"src/ejercicioE04/EjercicioE04.java,3\b\3b96e1818faf70a749ecfc3554f794f6780e5a8f
-R
-"src/ejercicioE05/EjercicioE05.java,d\a\da287b82ab346ddacf2e3b58dd77908fab126ad8
-R
 "src/ejercicioE06/EjercicioE06.java,e\3\e3f0edfbf327160d4809e4a947c9306f73f7144f
 R
 "src/ejercicioE07/EjercicioE07.java,4\3\43a35407be2a2081cc7d610c3997c2532186a028
@@ -46,8 +36,6 @@ R
 R
 "src/ejercicioE23/EjercicioE23.java,d\7\d77477fb46d6d5d0c5587e103e7487bf12317b07
 R
-"src/ejercicioEE1/EjercicioEE1.java,d\c\dcdccfe9fbddccaffb9b17a83563f7b102cd88ca
-R
 "src/ejercicioEE2/EjercicioEE2.java,0\e\0e2fe1d01fc11d7f1ce87d7d4ce9e8c314ee3334
 R
 "src/ejercicioEE3/EjercicioEE3.java,6\e\6e67c7ac6b0b455c7f2358f6b770a151e689471e
@@ -71,8 +59,6 @@ L
 nbproject/project.properties,0\e\0e101418588c1d63f873408509f6b7c7358a41ec
 M
 nbproject/genfiles.properties,8\5\85d559b438fd4915873f371dcfe48a06bd993c18
-;
-manifest.mf,1\d\1de71d11845294429b61ea236a5558babc5333cd
 W
 'src/ejercicio_catorce/Ejercicio014.java,e\b\eb73c34ea5c36aab61693af193922ea0f0f1112c
 S
@@ -125,3 +111,7 @@ Z
 +src/ejercicio_veintisiete/Ejercicio027.java,5\a\5a89bdd2e2585a70f308f5dbf3decf323e331f11
 Z
 *src/ejercicio_veintiseis/Ejercicio026.java,1\0\1060241cdff4e374afdf757e4e085e1c6d353858
+Z
+*src/ejercicio_veintiocho/Ejercicio028.java,b\e\be538c430cd29a8a4e54e74ccf5a065d8aa37298
+;
+manifest.mf,1\d\1de71d11845294429b61ea236a5558babc5333cd
