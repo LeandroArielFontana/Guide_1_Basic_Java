@@ -19,7 +19,7 @@ public class EjercicoE16 {
         System.out.println("Digite un numero para ver si es primo o no");
         number = read.nextInt();
 
-        if (verificate(number) == true) {
+        if (verificate(number)) {
             System.out.println("El numero " + number + " es primo");
         } else {
             System.out.println("El numero " + number + " no es primo");
