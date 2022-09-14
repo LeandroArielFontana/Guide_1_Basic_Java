@@ -1,15 +1,0 @@
-
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‡³Ãúÿÿÿÿ
-e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¬¼v
-k	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì°µşÿÿÿÿ
-k	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¯¶ûÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÆæô
-N	java:S106("9Replace this use of System.out or System.err by a logger.(µœËÙ
-N	java:S106,"9Replace this use of System.out or System.err by a logger.(êØæî
-S	java:S1062"9Replace this use of System.out or System.err by a logger.(õ®Üœÿÿÿÿÿ
-N	java:S1064"9Replace this use of System.out or System.err by a logger.( ÚÙÿ
-S	java:S1066"9Replace this use of System.out or System.err by a logger.(Ûøâäıÿÿÿÿ
-S	java:S106:"9Replace this use of System.out or System.err by a logger.(õ®Üœÿÿÿÿÿ
-N	java:S106<"9Replace this use of System.out or System.err by a logger.( ÚÙÿ
-N	java:S106>"9Replace this use of System.out or System.err by a logger.(ä¦ˆœ
-S	java:S106B"9Replace this use of System.out or System.err by a logger.(¤ß€ÿÿÿÿÿ

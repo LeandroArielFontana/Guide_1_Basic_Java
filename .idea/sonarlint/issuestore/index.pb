@@ -1,9 +1,5 @@
 
 R
-"src/ejercicioE15/EjercicioE15.java,e\c\ec6bea135e8d12ef6d2a430853ce894b0d1290a1
-Q
-!src/ejercicioE16/EjercicoE16.java,5\9\59319e35ede1a19a31e338bd6dcebcba31868165
-R
 "src/ejercicioE17/EjercicioE17.java,8\5\85a28b54f714f6dfa9eff6bba04940e844f70050
 R
 "src/ejercicioE18/EjercicioE18.java,3\f\3fe4bdf21704d95316c100b7bdff9f555e99090e
