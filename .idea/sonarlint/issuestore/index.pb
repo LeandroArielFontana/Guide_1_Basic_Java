@@ -1,23 +1,5 @@
 
 R
-"src/ejercicioE06/EjercicioE06.java,e\3\e3f0edfbf327160d4809e4a947c9306f73f7144f
-R
-"src/ejercicioE07/EjercicioE07.java,4\3\43a35407be2a2081cc7d610c3997c2532186a028
-R
-"src/ejercicioE08/EjercicioE08.java,a\9\a9b12073069890ae49699193fa0e08793ad1e31a
-R
-"src/ejercicioE09/EjercicioE09.java,f\9\f9851cb6dedfbf304a7ea5d7fb37ee3f1bf3d15c
-R
-"src/ejercicioE10/EjercicioE10.java,8\e\8e89dba505c4025e95cb19dfe7912c8b2e8d20bc
-R
-"src/ejercicioE11/EjercicioE11.java,a\9\a99f329503a77dac2c962cba3eb728997fc2d78e
-R
-"src/ejercicioE12/EjercicioE12.java,0\c\0c2e69d2f8be9f438571f3aea1d66c9b0c18b8fa
-R
-"src/ejercicioE13/EjercicioE13.java,8\5\8540204776d3eb566b4e5f054217a89f85d5ba7f
-R
-"src/ejercicioE14/EjercicioE14.java,0\7\074c08f4707e18e6d22cd5be1401a50799e533c0
-R
 "src/ejercicioE15/EjercicioE15.java,e\c\ec6bea135e8d12ef6d2a430853ce894b0d1290a1
 Q
 !src/ejercicioE16/EjercicoE16.java,5\9\59319e35ede1a19a31e338bd6dcebcba31868165
