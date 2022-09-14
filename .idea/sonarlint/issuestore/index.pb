@@ -1,7 +1,5 @@
 
 R
-"src/ejercicio028/Ejercicio028.java,e\1\e147e1ac1a2b3e0125b340d07606c4ba891e23aa
-R
 "src/ejercicioE01/EjercicioE01.java,4\6\466599aa587deebde2967db06dd5c914fb103a57
 R
 "src/ejercicioE02/EjercicioE02.java,8\b\8ba590a8ec5cb294b2b5bced1fe315071fdd69c2
@@ -121,3 +119,9 @@ Z
 *src/ejercicio_veintitres/Ejercicio023.java,8\5\8502ca7bec62aee57b9957959e668d7f71c0c774
 \
 ,src/ejercicio_veinticuatro/Ejercicio024.java,5\c\5c5302e3c47e2ef5ff46ca3202e0d61629dff80e
+[
++src/ejercicio_veinticinco/Ejercicio025.java,d\6\d66beb22c0986b8ad9645541a32a8b9cd5f45616
+[
++src/ejercicio_veintisiete/Ejercicio027.java,5\a\5a89bdd2e2585a70f308f5dbf3decf323e331f11
+Z
+*src/ejercicio_veintiseis/Ejercicio026.java,1\0\1060241cdff4e374afdf757e4e085e1c6d353858
