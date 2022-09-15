@@ -1,0 +1,18 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Éå
+]
+java:S2184/"BCast one of the operands of this division operation to a "double".(Ç×‡¥ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(çÕÅ£
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ş¥³ûÿÿÿÿ
+7	java:S131""Add a default case to this switch.(ù•²ô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤ªŞşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®¤øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëêÎç
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ö€›Œúÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ßçÇÙ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ûÜß¯
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ã„ÚÕúÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ÿòÓ˜
+M	java:S106%"9Replace this use of System.out or System.err by a logger.(ìˆ¢G
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(¾€¹úÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(¯Ø‡×
